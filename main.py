@@ -30,7 +30,7 @@ def get_track_ids_from_file(filename):
                 track_ids.append(match.group(1))
     return track_ids
 
-file_path = 'spotify_playlist_manager\song_links.txt'
+file_path = 'spotify_playlist_manager\track_links.txt'
 
 new_tracks = get_track_ids_from_file(file_path)
 
