@@ -39,7 +39,7 @@ This Python script allows you to manage your Spotify playlists by reading track 
  
 ## Usage
 
-1. Ensure Ensure you have added your Spotify credentials and playlist ID to the `.env` file and installed requirements correctly
+1. Ensure you have added your Spotify credentials and playlist ID to the `.env` file and installed requirements correctly
 
 2. Add Track links to 'track_links.txt'
 
