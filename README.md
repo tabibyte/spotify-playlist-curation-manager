@@ -2,7 +2,7 @@
 
 Simple Automatic Playlist Updater For Curating Big Playlists
 
-This Python script allows you to manage your Spotify playlists by reading track links from a `song_links.txt` file, removing all existing songs in a specified playlist, and adding new songs from the list. Ideal for curating new weekly everchanging playlists based on simple text input.
+This Python script allows you to manage your Spotify playlists by reading track links from a `track_links.txt` file, removing all existing songs in a specified playlist, and adding new songs from the list. Ideal for curating new weekly everchanging playlists based on simple text input.
 
 ## Features:
 - Automatically removes all tracks from an existing playlist and replaces them with new ones.
